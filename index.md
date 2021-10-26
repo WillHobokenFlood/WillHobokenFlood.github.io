@@ -1,2 +1,2 @@
-# **YES**
-{text-align: center;}
+<center> **YES** </center>
+
