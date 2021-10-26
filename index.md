@@ -1,11 +1,5 @@
-<head>
-<style>
-  p.ex1 {
-    font-size: 90px
-  }
-</style>
-</head>
 
 
-<center> <bold> YES </bold> </center>
+
+<center> <bold> <font size="10"> YES </font size> </bold> </center>
 
