@@ -1,1 +1,2 @@
 # **YES**
+{text-align: center;}
